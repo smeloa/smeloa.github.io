@@ -54,7 +54,7 @@ hr.star-primary:after {
 
 hr.star-light,
 hr.star-primary {
-    border-color: #800060;
+    border-color: #9d9d9d;
 }
 
 hr.star-light:after {
@@ -75,12 +75,12 @@ hr.star-primary:after {
   padding-top: 50px;
   padding-bottom: 70px;
 }
-  
+
 .about-p {
   font-size: 1.3em;
   margin: 0 20px;
   padding-bottom: 10px;
-}  
+}
 
 .purple-link {
   color: #cc0099;
